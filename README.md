@@ -35,7 +35,7 @@ Ale ne! Urbas se probudil v podzemní sumo zapasnické kleci. Pomož mu dostat s
 
 
 -ITEM-
-
+<br>
 --CONSUMABLE--
 -VOŇAVÝ DOUTNÍK
 -TATRANSKÝ ČAJÍK
@@ -46,12 +46,13 @@ Ale ne! Urbas se probudil v podzemní sumo zapasnické kleci. Pomož mu dostat s
 
 
 -QUESTS-
+<br>
 MAIN QUESTS:
   -Pomož Urbikovi se dostat z podzemní klece. 
   --Dostaň se do blízkosti Královny klece.
   ---Zpacifikuj Královnu klece. (USPÁVADLO NEBO FIGHT)
   ----Dostaň se přes Královnu klece RnDR L.
-  
+  <br>
 SIDE QUESTS:
 -NAVŠTIV JESKYNI KOSTÍ 
 --SEBER KOSTÍKOVÝ MEČ
@@ -67,6 +68,7 @@ SIDE QUESTS:
 
 
 -NPC-
+<br>
 --PEACEFUL--
 -ESCH
 -HONZA
