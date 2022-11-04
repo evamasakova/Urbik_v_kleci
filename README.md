@@ -2,6 +2,7 @@
 Ale ne! Urbas se probudil v podzemní sumo zapasnické kleci. Pomož mu dostat se z klece živ a zdráv. 
 
 -MAP-
+<br>
 -TOMÁŠŮV TATRAN BAR 
 
 -KLEC
