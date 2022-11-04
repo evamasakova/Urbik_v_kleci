@@ -12,7 +12,7 @@ Ale ne! Urbas se probudil v podzemní sumo zapasnické kleci. Pomož mu dostat s
 --JESKYNĚ KOSTÍ
 ---BOSS FIGHT S KOSTÍKEM
 
--HONZOVŮV ZKRACHOVALÝ S3X-DUNGEON 🍆🏜️
+-HONZŮV ZKRACHOVALÝ S3X-DUNGEON 🍆🏜️
 --HONZŮV MAFIA KANCL
 
 -ESCHÍNŮV PŮLTÍK S NĚMECKÝMI DOUTNÍČKY
